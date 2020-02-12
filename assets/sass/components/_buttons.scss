@@ -1,0 +1,30 @@
+.section__button__mensaje {
+    background-color: $cian;
+    color: $white;
+    border: 0px solid white;
+    padding: 0.5rem 1rem;
+    margin: 2rem -4rem;
+}
+
+.section__button__seguir {
+    background-color: $naranjo;
+    color: $white;
+    border: 0px solid white;
+    padding: 0.5rem 1rem;
+    margin: 2rem 5rem;
+}
+
+.navbar-toggler-icon {
+    width: 2rem;
+    height: 2rem;
+}
+
+.navbar-toggler {
+    border: 0px solid white;
+}
+
+
+
+.p *{
+    margin-bottom: 0rem !important;
+}

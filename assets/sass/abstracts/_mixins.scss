@@ -1,0 +1,140 @@
+@media (min-width: 600px) {
+    .header__image {
+        height: 200px;
+    }
+
+    .section__image {
+        width: 60px;
+        height: 60px
+    }
+
+    .section__perfil__nombre {
+        font-size: $x-large;
+    }
+
+    .section__perfil__seguidores {
+        font-size: $small;
+    }
+
+    .navegation__logo {
+        font-size: $xxx-large;
+        padding-left: 5%;
+    }
+
+    .navegation__logo__superindice {
+        font-size: $xx-small;
+    }
+
+    .main {
+        padding: 0 6%;
+    }
+    .main__card__text__titulo{
+        font-size: $large;
+    }
+    .main__card__text__parrafo{
+        font-size: $medium;
+    }
+    .main__card__text__titulo{
+        margin-bottom: 0px;
+    }
+    .main__hr {
+        margin: 0px;
+    }
+    
+}
+
+
+@media (min-width: 401px) and (max-width:599px) {
+    .header__image {
+        height: 100px;
+    }
+
+    .section__perfil__nombre {
+        font-size: 30px;
+    }
+
+
+    .section__image {
+        width: 70px;
+        height: 70px
+    }
+
+    .navegation__logo {
+        font-size: $xxx-large;
+        padding-left: 10%;
+    }
+
+    .navegation__logo__superindice {
+        font-size: $xxx-small;
+    }
+
+    .section__perfil__nombre {
+        font-size: $x-large;
+    }
+
+    .section__perfil__seguidores {
+        font-size: $small;
+    }
+
+    .main {
+        padding: 0 10%;
+    }
+
+    .section__button {
+        display: none;
+    }
+    .main__card__text__titulo{
+        margin-bottom: 0px;
+    }
+    
+    .main__hr {
+        display: none;
+    }
+}
+
+@media (max-width: 400px) {
+    .header__image {
+        height: 80px;
+    }
+
+    .section__perfil__nombre {
+        font-size: 20px;
+    }
+
+
+    .section__image {
+        width: 70px;
+        height: 70px
+    }
+
+    .navegation__logo {
+        font-size: $xxx-large;
+        padding-left: 10%;
+    }
+
+    .navegation__logo__superindice {
+        font-size: $xxx-small;
+    }
+
+    .section__perfil__nombre {
+        font-size: $x-large;
+    }
+
+    .section__perfil__seguidores {
+        font-size: $small;
+    }
+
+    .main {
+        padding: 0 10%;
+    }
+
+    .section__button {
+        display: none;
+    }
+    .main__card__text__titulo{
+        margin-bottom: 0px;
+    }
+    .main__hr {
+        display: none;
+    }
+}

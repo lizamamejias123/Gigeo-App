@@ -1,0 +1,19 @@
+.section {
+    display: flex;
+}
+
+.section__perfil {
+    align-self: center;
+}
+
+.main__card__body {
+    padding: inherit;
+}
+
+.main__card__image {
+    flex-shrink: 0;
+    width: 100%;
+}
+.main__card__text__titulo{
+    margin-bottom: 0px;
+}
